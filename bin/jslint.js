@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env nodejs
 // jslint wrapper for nodejs
 // Adapted from rhino.js. Copyright 2002 Douglas Crockford
 // Shebang removal regex uses insecure "."
