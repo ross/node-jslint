@@ -43,7 +43,30 @@
                     "process",
                     "require",
                     "__filename",
-                    "module"       ]
+                    "module"       ],
+        asi: false,
+        bitwise: false,
+        curly: true,
+        debug: false,
+        devel: false,
+        eqeqeq: true,
+        forin: true,
+        immed: true,
+        laxbreak: false,
+        maxerr: 50,
+        newcap: true,
+        noarg: true,
+        noempty: false,
+        nonew: true,
+        nomen: false,
+        onevar: false,
+        passfail: false,
+        plusplus: false,
+        'regexp': true,
+        undef: false,
+        sub: false,
+        strict: false,
+        white: true
     });
 
     if (!success) {
